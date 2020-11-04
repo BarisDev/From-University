@@ -1,8 +1,7 @@
 # Sistem-Programlama
-Sistem Programlama dersinin ödev ve projelerini içerir.
 
-Manual Kernel Update dökümanın şunları içerir:<br>
--Ubuntu kurulumu
--Kernel için gereken modüllerin indirilmesi, kurulumu
--Kernel versiyonu indirilmesi, kurulumu
--Potansiyel hatalar
+<b>Manual Kernel Update dökümanın şunları içerir:<br>
+-Ubuntu kurulumu<br>
+-Kernel için gereken modüllerin indirilmesi, kurulumu<br>
+-Kernel versiyonu indirilmesi, kurulumu<br>
+-Potansiyel hatalar<br>
